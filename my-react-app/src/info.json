@@ -1,0 +1,40 @@
+{
+  "prayerNames": {
+    "Fajr": "فجر",
+    "Dhuhr": "ظهر",
+    "Asr": "عصر",
+    "Maghrib": "مغرب",
+    "Isha": "عشاء"
+  },
+  "importantDates": {
+    "2 Januar": "Lejletu-l-Regaib",
+    "11 Januar": "Skupstina Medzlisa 3",
+    "18 Januar": "Skupstina Medzlisa 2",
+    "26 Januar": "Lejletu-l-Miradz",
+    "1 Februar": "Skupstina Medzlisa 1",
+    "8 Februar": "Skupstina Medzlisa 4",
+    "13 Februar": "Lejletu-l-Berat",
+    "28 Februar": "Prva Teravija",
+    "1 Mart": "Pocetak Posta",
+    "16 Mart": "Lejletu-l-Bedr",
+    "17 Mart": "Dan Pobejede na Bedru",
+    "20 Mart": "Ulazak u Itikaf",
+    "26 Mart": "Lejletu-l-Kadr",
+    "30 Mart": "Ramazanski Bajram",
+    "31 Mart": "Dan Sehida",
+    "12 April": "Skupstina IZBSA",
+    "4 Maj": "Dan Dzamija",
+    "4 Juni": "Dan Arefata",
+    "6 Juni": "Kurban Bajram",
+    "26 Juni": "Pocetak 1447. Hidzretske Godine",
+    "5 Juli": "Dan Asure - Jevmu-l-Asura",
+    "11 Juli": "Dan sjecanja na genocid u Srebrenici",
+    "20 Juli": "Dan sjecanja na genocid u Prijedoru",
+    "29-31 August": "28 Susreti Bosnjaka Sjeverne Amerike",
+    "4 Septembar": "Mevlud - Rodenje Muhammeda a.s",
+    "6 Septembar": "Centeralna Mevludska Svecanost Medzlisa 3",
+    "13 Septembar": "Centeralna Mevludska Svecanost Medzlisa 2",
+    "20 Septembar": "Centeralna Mevludska Svecanost Medzlisa 4",
+    "27 Septembar": "Centeralna Mevludska Svecanost Medzlisa 1"
+  }
+}
